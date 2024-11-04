@@ -1,0 +1,11 @@
+
+body {
+	background-color: #000;
+}
+body,td,th {
+	color: #00CCFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	line-height: normal;
+}
