@@ -8,22 +8,34 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            background-color: #3E8AA;
+            background-image: url('img/Fond_griezmann.png');
+            background-size: cover;
         }
         header {
             text-align: center;
             margin-bottom: 30px;
         }
         h1 {
-            color: #FF0000;
+            color: #ff0707;
+            text-shadow: 
+            -1px -1px 0 black,
+            1px -1px 0 black,
+            -1px  1px 0 black,
+            1px  1px 0 black;
+        
         }
+        h2 {
+            color: #ff0707;
+            text-align: center;
+        }
+
         .bio {
             max-width: 600px;
             margin: auto;
             background: #FFA500;
             padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            border: 3px solid black;
         }
         .photos {
             display: flex;
@@ -32,11 +44,10 @@
             gap: 10px;
         }
         .photos img {
-            width: 500px;
+            width: 650px;
             height: auto;
             border-radius: 5px;
-            box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-        }
+            border: 3px solid black;
     </style>
 </head>
 <body>
@@ -64,7 +75,7 @@ Son style de jeu et sa polyvalence font de lui l'un des joueurs les plus influen
 <br>
 
 <div class="photos">
-    <h1>Photos</h1><br>
+    <br>
 
     <img src="img/biographie_ag_01.png" alt="Antoine Griezmann, Athletico Madrid">
     <img src="img/biographie_ag_02.png" alt="Antoine Griezmann , Equipe de France">
@@ -72,7 +83,7 @@ Son style de jeu et sa polyvalence font de lui l'un des joueurs les plus influen
     <!-- Ajoutez d'autres images ici -->
 </div>
 
-<h1><a href="fansite1.html"> Retour Au Menu</a> </h1>
+<h2><a href="fansite1.html"> Retour Au Menu</a> </h2>
 
 </body>
 </html>
