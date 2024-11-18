@@ -8,7 +8,7 @@ http://insidethebox.free.fr/projet_fansite/index.html
 
 QR Code qui vous amene directement sur le site en live demo : 
 
-![qr corde reuit](https://github.com/user-attachments/assets/dacc81e8-c048-4b08-ba61-768eacb04b0d) 
+![qr code updated projet fan sites](https://github.com/user-attachments/assets/c01d4d2b-c242-4693-82e9-e01c8cec7b2e)
 
 
 
